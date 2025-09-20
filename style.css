@@ -1,0 +1,258 @@
+/* ==== GLOBAL RESET ==== */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f5f5f7;
+  color: #1d1d1f;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+#page-title {
+  text-align: center !important;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+/* ==== CONTAINER ==== */
+.container {
+  max-width: 600px;
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  margin: auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+/* ==== QUESTION TEXT ==== */
+#question-number {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#question-text {
+  font-size: 16px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+/* ==== OPTIONS ==== */
+.option {
+  display: block;
+  padding: 16px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 100%;
+  font-size: 16px;
+  text-align: left;
+  background-color: #ffffff;
+  text-align: left;
+
+  /* Safari & mobile compatibility */
+  color: #1d1d1f !important;
+  white-space: normal !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.4;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.option.correct {
+  background-color: #c7f5cb;
+  border: 2px solid #28a745;
+  color: #1e4620 !important;
+  font-weight: bold;
+}
+
+.option.incorrect {
+  background-color: #f9c2c4;
+  border: 2px solid #dc3545;
+  color: #842029 !important;
+  font-weight: bold;
+}
+
+.option.disabled {
+  pointer-events: none;
+  opacity: 0.85;
+}
+
+/* ==== BUTTONS (general) ==== */
+button:not(.option) {
+  background: #0071e3;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 5px 0;
+  transition: all 0.2s ease;
+}
+
+button:not(.option):hover {
+  background: #005bb5;
+}
+
+button:not(.option):disabled {
+  background: #cccccc;
+  cursor: not-allowed;
+}
+
+/* ==== NAVIGATION BUTTON ROW ==== */
+.nav-controls {
+  display: flex;
+  flex-wrap: nowrap;       /* â stay on one line */
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  overflow-x: auto;         /* â scroll horizontally if needed */
+  -webkit-overflow-scrolling: touch; /* iOS smooth scroll */
+}
+
+.nav-controls::-webkit-scrollbar {
+  display: none; /* Optional: hide scrollbar on mobile */
+}
+
+.nav-controls button,
+.nav-controls input[type="number"] {
+  padding: 10px 12px;
+  font-size: 14px;
+  border-radius: 6px;
+  width: auto;
+  flex-shrink: 0;       /* â prevent shrinking */
+  min-width: 60px;
+  box-sizing: border-box;
+}
+
+/* ==== INPUT FIELD ==== */
+input[type="number"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  width: 80px;
+  text-align: center;
+}
+
+/* ==== SCORE + FEEDBACK ==== */
+#feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#score-display {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.reset-btn {
+  background-color: transparent !important;
+  color: #e57373 !important; /* light red text */
+  border: 1.5px solid #e57373 !important; /* light red border */
+  padding: 8px 20px !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  border-radius: 999px !important; /* pill shape */
+  cursor: pointer !important;
+  width: auto !important;
+  display: inline-block !important;
+  transition: all 0.2s ease !important;
+  margin: 20px auto 0 !important;
+}
+
+.reset-btn:hover {
+  background-color: #fdecea !important;
+  color: #d32f2f !important;
+  border-color: #d32f2f !important;
+}
+/* ==== EXPLANATION BOX (optional) ==== */
+#explanation {
+  background-color: #f0f0f5;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 15px;
+  font-size: 15px;
+  text-align: left;
+  display: none;
+}
+
+/* Resume banner styling */
+.resume-banner {
+  background: linear-gradient(to right, #e0f7e9, #ccf1dc);
+  color: #0b5e3d;
+  padding: 12px 18px;
+  margin-bottom: 20px;
+  border-radius: 999px; /* egg shape */
+  font-weight: 500;
+  font-size: 14px;
+  position: relative;
+  display: none;
+  text-align: center;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.4s ease-out;
+}
+
+.resume-banner.fade-out {
+  opacity: 0;
+}
+
+.close-btn {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #0b5e3d;
+}
+
+.close-btn:hover {
+  color: #065c38;
+}
+
+.total-count {
+  font-size: 0.75em;
+  color: #777;
+  margin-left: 4px;
+}
+
+/* === QUOTE BOX STYLING === */
+#quote-box {
+  background-color: #f0f7ff;
+  color: #004085;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 500;
+  text-align: center;
+  padding: 16px 30px;
+  border-radius: 999px;
+  max-width: 90%;
+  margin: 10px auto 30px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+.quote-big {
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.quote-text {
+  flex: 1;
+}

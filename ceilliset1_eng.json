@@ -1,0 +1,662 @@
+[
+  {
+    "questionNumber": "1",
+    "question": "What are the factors that have contributed to the steady growth of the life insurance industry in Malaysia since 2000?\n\nI. The Malaysian government granting more flexibility to life insurance companies to run business operations based on their own management philosophies and at their own prudent discretion\nII. Malaysia’s dynamic economic growth experience\nIII. Life insurers designing and offering customer-centric plans\nIV. The introduction of investment-linked insurance and the steady growth of this product\n",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "III and IV",
+      "D": "II"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 2,
+    "question": "Which of the following is the correct description of an investment-linked life policy?",
+    "options": {
+      "A": "A participating policy offering lifetime coverage",
+      "B": "A capital guaranteed policy",
+      "C": "An endowment policy which provides minimum returns",
+      "D": "A policy offering protection while also investing in funds which form the basis for returns to the policy owner"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 3,
+    "question": "An investment-linked life insurance policy is also known as the following in some parts of the world:\nI. Mutual fund-linked policy\nII. Unit-linked policy\nIII. Variable life policy\nIV. Universal life policy",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "II, III and IV",
+      "D": "II and III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 4,
+    "question": "Investment-linked funds are managed by:\nI. The insurer’s own professional managers in its internal investment department\nII. Fund managers/fund houses appointed by the insurer through outsourcing\nIII. Outsourcing to the funds of unit trust companies since investment-linked funds are similar to unit trust funds\nIV. The insurer’s board of directors who can make special decisions on the types of investment vehicles to offer to policy owner",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I",
+      "C": "I and II",
+      "D": "I and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 5,
+    "question": "Since investment-linked insurance has an investment element, a prospective policy owner is allowed to opt for:\nI. A nominal amount of sum assured of his selection\nII. No life protection at all\nIII. At least the minimum amount of sum assured according to age, basic premium paid and a formula set by the relevant regulator\nIV. The sum assured offered by the insurer concerned based on its internal underwriting guidelines in relation to the financial status and circumstances of the intended policy owner",
+    "options": {
+      "A": "I",
+      "B": "I and II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 6,
+    "question": "Which of the following statements are correct?\nI. Policy owners of investment-linked plans should be made to understand that they wholly bear the gains or losses from the investment portion of their policies\nII. As responsible corporations, life insurers are obliged to be partly responsible for any drastic drop in prices of funds under their custody; thus, they have to bear part of the losses suffered by policy owners if such incidents occur\nIII. For investment-linked policies, an individual can invest in a diversified portfolio with a sum as low RM1,200 per year. This is possible as the overall collected premiums contributed by investment-linked policy owners form a sufficiently large pool for spreading over varied stocks or securities in the market\nIV. An average income earner may not possess ready sufficient liquidity to invest in a spread of assets if he wants to do it in the open market on his own",
+    "options": {
+      "A": "I, III and IV",
+      "B": "II and III",
+      "C": "I and II",
+      "D": "I, II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 7,
+    "question": "Which options are open to policy owners of a regular premium investment-linked plan?\nI. A policy owner may opt for higher sum assured than the minimum amount stipulated by the Sum Assured Multiple rule\nII. A policy owner can pay top-up premium to accelerate the accumulation of the account value in the policy\nIII. A prospective policy owner can apply to combine a single premium plan with a regular premium plan into one policy\nIV. A prospective policy owner can select the death benefit based on either the sum assured or the account value, whichever is higher",
+    "options": {
+      "A": "I and II",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "I, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 8,
+    "question": "Which of the following statements are correct?\nI. Top-up premiums can either be paid on a regular basis or at any time\nII. Most insurers impose a minimum amount for both regular top-ups and ad hoc top-ups\nIII. Most insurers allow ad hoc top-ups once a year and impose a maximum amount\nIV. An upfront charge, normally around 5 per cent, is deducted from each top-up",
+    "options": {
+      "A": "II, III and IV",
+      "B": "I, II and IV",
+      "C": "I and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 9,
+    "question": "A female, aged 30 years, has budgeted to set aside RM3,000 a year for a basic regular premium investment-linked plan with a unit-deducting hospitalization rider. According to the SAM formula, the multiple factor for her age is 50 times. How would you calculate the minimum sum assured for the basic plan?",
+    "options": {
+      "A": "RM3,000 minus the notional premium for the rider & multiply by 50 times",
+      "B": "RM3,000 multiply by 50 times",
+      "C": "RM3,000 multiply by 55 times",
+      "D": "RM3,000 minus the notional premium & then multiply by 55 times"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 10,
+    "question": "Which of the statements below are correct?\nI. All life insurers impose an early partial withdrawal charge and an early surrender charge\nII. High partial withdrawals may cause the future account value to be insufficient to cover the higher cost of insurance at older ages. Therefore, it is prudent for a policy owner to make ad hoc top-ups to replenish the units and the account value\nIII. Depending on the practices instituted by individual life insurers, all fund switches may be processed free of charge, or be free for the first switch or first few switches within a policy year and a fee is charged for subsequent switches\nIV. The investment risk profile of a young investor or policy owner may likely change from the aggressive category to the conservative category as he advances in age; hence, he may want to progressively shift more of his equity assets to fixed income or bond fund until he gets close to retirement age",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "II and III",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 11,
+    "question": "Identify the correct statements from those given below:\nI. The free-look period is 15 days commencing from the date of delivery of policy contract to the policy owner\nII. The no-lapse guarantee clause stipulates that as long as premiums are paid without fail by the grace period and there was no previous premium holiday or partial withdrawal, the regular premium investment-linked policy will never lapse over the entire policy tenure although the account value may be insufficient to cover the cost of insurance at any point in time\nIII. The no-lapse guarantee clause stipulates the regular premium investment-linked policy will not lapse in the first few years (e.g. 2 years) even though the account value is not sufficient to cover the cost of insurance, provided:\n- All premiums were paid during the period\n- No premium holiday was exercised during the period\n- There was no partial withdrawal or fund switching during the period\nIV. As the basic death benefit of a regular premium investment-linked policy is basic sum assured plus account value, the life insurer will continue to deduct the cost of insurance for the basic coverage as long as the policy remains in force",
+    "options": {
+      "A": "I, III and IV",
+      "B": "II, III and IV",
+      "C": "II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 12,
+    "question": "Select the correct statements from the following:\nI. The Dollar Cost Averaging phenomenon leverages the long-term or the acquisition of more fund units when prices are down and the appreciation of units already acquired when prices go up\nII. Some assets in a fund may perform well in a given short period while some may not, but the overall impact is the averaging effect due to the spreading out of risk. With prudent management by fund managers, the unit price is likely to be higher in the longer run\nIII. The maximum tax relief for a qualified regular premium investment-linked medical plan and an education plan is RM3,000 a year. If a policy owner has both, the combined limit is also RM3,000\nIV. Whether a policy owner has a qualified regular premium investment-linked medical plan or an education plan, or both, he qualifies for a tax relief of up to RM6,000 a year",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I, II and III",
+      "C": "I and III",
+      "D": "II and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 13,
+    "question": "Single premium investment-linked insurance is said to be more inclined towards investment than protection because",
+    "options": {
+      "A": "Generally, about 95% of the single premium is allocated for investment in fund units",
+      "B": "The policy owner has the discretion to opt out of any protection coverage so that no cost of insurance will be deducted from the account value",
+      "C": "The usual sum assured is 25 per cent above the single premium outlay and may be lowered to 5 per cent above the premium for older age groups, i.e. RM125,000 for SP of RM100,000, RM105,000 for senior ages with the same premium",
+      "D": "Once the account value exceeds the basic sum assured, the death benefit will be the account value, not inclusive of the sum assured"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 14,
+    "question": "Mrs. A, aged 45, signs up for a single premium investment-linked plan by paying an initial RM100,000. Six months later, she pays another RM100,000 as top-up. The total sum assured in her policy after payment of the top-up is",
+    "options": {
+      "A": "RM250,000",
+      "B": "RM125,000",
+      "C": "RM205,000",
+      "D": "RM210,000"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 15,
+    "question": "Which of the statements below are correct regarding single premium investment-linked insurance?\nI. Most insurers set their minimum basic single premium as ranging from RM5,000 to RM20,000, depending on product design\nII. All insurers set the minimum basic single premium at RM5,000\nIII. Top-up premiums, if any, also bear the same normal upfront or unallocated premium charge ratio of around 5% as the basic single premium\nIV. Cost of insurance will be deducted regardless of whether the account value is above or below the basic sum assured at any point in time",
+    "options": {
+      "A": "I, III and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 16,
+    "question": "Which statement/s relate(s) to the application of cost of insurance (COI) in single premium investment-linked insurance?\nI. COI is based on the sum assured or account value, whichever is higher\nII. When the account value of a single premium investment-linked policy is still below the sum assured, the shortfall gap between the two levels is called sum at risk\nIII. Deduction of COI is based on the shortfall amount from the account value level to the sum assured level\nIV. COI is based on the difference between the sum assured and account value at any point in time",
+    "options": {
+      "A": "I",
+      "B": "III",
+      "C": "II and III",
+      "D": "IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Top-ups for single premium investment-linked plans are encouraged when\nI. The market is on the upturn and unit prices are rising\nII. A market downturn sets in not long after policy inception, thus causing the sum at risk to prolong longer than expected, based on the initial premium outlay\nIII. The nation is experiencing a period of strong economic or GDP growth\nIV. The policy owner believes in the impact of Dollar Cost Averaging and wants to leverage that to boost the account value instead of relying on just one single outlay",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "I, II and III"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "question": "The few mechanisms and features of single premium investment-linked plans which differ from regular premium investment-linked plans are:\nI. The sum assured formula for single premium plans is different than that for regular premium plans\nII. The death benefit formula for single premium plans is not guided by the same minimum Sum Assured Multiple rule applicable to regular premium plans\nIII. The allocated premium ratio for single premium plans is different from that for regular premium plans\nIV. While the policy is kept in force, the cost of insurance deductions for single premium plans may not be continuous because the formula is based on sum at risk, unlike regular premium plans which are based on sum assured",
+    "options": {
+      "A": "I and IV",
+      "B": "I, II, III and IV",
+      "C": "II, III and IV",
+      "D": "I, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 19,
+    "question": "The benefits of an investment-linked policy are:\nI. It provides access to a diversified investment portfolio. Thus, it has better risk characteristics than a non-diversified portfolio\nII. It offers flexibilities\nIII. Fixed nominal charges are levied on the policy\nIV. The life insurer insulates the policy owner against market risks",
+    "options": {
+      "A": "I and II",
+      "B": "II and IV",
+      "C": "I and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 20,
+    "question": "When an investment-linked policy reaches maturity, the maturity value will be",
+    "options": {
+      "A": "The basic sum assured and the account value",
+      "B": "The account value",
+      "C": "The account value plus terminal/ maturity bonus",
+      "D": "The basic sum assured and the account value plus terminal/maturity bonus"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 21,
+    "question": "What are two similarities between a regular premium investment-linked plan and a whole life participating plan?\nI. Both plans provide lifetime coverage up to maximum age 100\nII. Both plans allow the addition of riders without additional premium\nIII. Both are entitled to the same income tax relief treatment for premiums paid\nIV. The minimum age for an individual to apply on own life, and not as juvenile application arrangement, is age 16 for both products",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 22,
+    "question": "Which of the following statements are correct?\nI. The minimum age for applying a regular investment-linked policy on own life is age 18 last birthday\nII. A minor aged 16 last birthday who is applying for an investment-linked policy on own life needs parental consent.\nIII. A minor aged 16 last birthday can apply for a whole life participating policy without parental consent.\nIV. Minors aged 10 to 15 last birthday can apply for a whole life participating policy with parental consent.",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I and III",
+      "D": "I, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 23,
+    "question": "As the sales illustration document printed by any life insurer is meant for reference and view by a prospect, a sales intermediary is expected to observe certain rules. The sales intermediary must:\nI. Get the new policy owner to sign the illustration as acknowledgement of having understood the contents\nII. Get the new policy owner to sign the policy disclosure sheet and also to sign it by himself to declare that proper presentation has been carried out and the non-guaranteed elements have been explained\nIII. Highlight that all investment risks are borne by the policy owner, that all fees and charges may be changed by the insurer giving 3 months’ notice, and that the cost of insurance increases with attained age\nIV. Explain that the projected returns may be deemed likely returns of the selected funds based on the past 5 years’ historical performance",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I and III"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "question": "Which of the following statements regarding a life insurer’s sales illustration/quotation document are correct?\nI. The projection of future returns is based on the past 5 years’ performance experience of a specific fund or funds proposed to the prospect\nII. Projected returns are based on assumed rates for the high and low scenarios of the specific fund/s\nIII. Normally, the actual historical returns of the various offered funds in the past 5 years are also shown for the purpose of transparency\nIV. Projection of values is based on assumed rates of return up to 20 years",
+    "options": {
+      "A": "I and III",
+      "B": "II, III and IV",
+      "C": "I, III and IV",
+      "D": "II and III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 25,
+    "question": "An example of investment in money markets is:",
+    "options": {
+      "A": "5-Year Bond",
+      "B": "Currencies and Forex",
+      "C": "Treasury Bills",
+      "D": "Savings account"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 26,
+    "question": "People generally want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s education and their upbringing",
+    "options": {
+      "A": "II, III and IV",
+      "B": "I, II and III",
+      "C": "I, II and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 27,
+    "question": "Which statement below explains what a simple (current) net worth analysis involves?",
+    "options": {
+      "A": "The forecast of a person’s future net wealth and financial status (e.g. middle income, upper middle income, etc.)",
+      "B": "A calculation of the sum of assets in current monetary terms that a person presently owns, not including any future inheritance",
+      "C": "The total sum of all assets owned by a person in present value minus the existing total sum of all liabilities he is obliged to settle. The balance, if any, is his present net worth to his family in the event of his early demise",
+      "D": "A personal plan outlining the targets for values of current and future assets to be achieved at a certain time in the future"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 28,
+    "question": "The main purpose of an agent conducting a risk profile on his potential client is:",
+    "options": {
+      "A": "To assess whether the potential client is willing to use a major portion of his savings or liquid assets to purchase a large investment-linked plan",
+      "B": "To help the potential client understand his own risk profile, i.e. whether he has conservative, aggressive or balanced risk characteristics, and also to consider the type of asset categories suitable for his profile",
+      "C": "To assess whether the potential client will be attracted to the product/s being offered",
+      "D": "To assess whether the potential client is willing to forego some of his existing liquid assets in order to buy an investment-linked product"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "question": "Which of the statements below are true?\nI. A person’s investment horizon is the length of time that he is prepared to hold a particular asset before he liquidates it\nII. The investment horizon of an individual, among other factors, also depends when he needs liquidity in the future date for specific objective/s\nIII. The cost or penalty that an investor has to pay in the event he needs to liquidate the asset earlier than expected also has a bearing on his choice of investment horizon\nIV. It is pertinent for an agent to strike a clear understanding with a potential client as to how much the latter is willing to set aside or commit for acquiring an asset",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "II, III and IV",
+      "D": "I, II and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 30,
+    "question": "Which of the following statements is correct?",
+    "options": {
+      "A": "Diversification means spreading out investment in different asset categories or fund types",
+      "B": "Diversification not only means spreading out investment in different asset categories or fund types, but also acquiring various assets of the same category or fund type",
+      "C": "Investment-linked funds in Malaysia confine the investment diversification to assets in the country as a way of discouraging the outflow of funds",
+      "D": "When the stock market shows signs of going up, an investor should give key focus to leverage the market trend and switch all fixed income or bond assets to equities"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 31,
+    "question": "Malaysian treasury bills are debt instruments that are considered safe because\nI. They are issued by the Government of Malaysia\nII. They are short-term instruments\nIII. They are guaranteed by the World Bank\nIV. Their tenure is normally 12 months",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I and II",
+      "D": "I, II and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 32,
+    "question": "Which of the following statements are correct?\nI. Normally, when interest rates fall, the prices of fixed income or bond assets may rise; when interest rates rise, their prices may drop\nII. Government bonds are safer than corporate bonds but their returns are comparatively lower\nIII. The maturity period of short-term government bonds is usually less than 5 years; for the medium-term ones, it is usually 5–10 years and for the long-term ones, it is usually above 15 years\nIV. Preference shares are hybrid securities with both equity and fixed income characteristics. In the event the company concerned winds up, preferred shareholders have the first right to be compensated from the company assets first before normal shareholders",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "II, III and IV",
+      "C": "I, II and III",
+      "D": "I and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 33,
+    "question": "The similarities and differences between unit trusts and single premium investment-linked plans are:\nI. The investment approaches of both are similar\nII. The life insurance protection element is not part and parcel of unit trust products, whereas for single premium investment-linked plans, it is\nIII. Unit trusts do not impose cost of insurance and policy fee charges since the life protection element is absent\nIV. A trustee must be appointed for unit trusts but this is not compulsory for single premium investment-linked plans",
+    "options": {
+      "A": "I and II",
+      "B": "I, II, III and IV",
+      "C": "II, III and IV",
+      "D": "I and III"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 34,
+    "question": "Which of the following statements about Real Estate Invest Trusts (REITs) is NOT true?",
+    "options": {
+      "A": "REITs operate in a way similar to unit trusts",
+      "B": "Rental income from the properties invested by a REIT is distributed to investors in the form of dividend",
+      "C": "A REIT can invest in a wide range of properties like malls, office blocks, apartments, commercial lots, hotels, etc",
+      "D": "REITs may acquire shares in property development companies"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 35,
+    "question": "Which of the statements below is incorrect?",
+    "options": {
+      "A": "Sukuk are like bonds but they are based on Shariah-compliant principles",
+      "B": "Malaysia is the world’s largest issuer of sukuk",
+      "C": "Sukuk securities are issued by Malaysia in Ringgit only",
+      "D": "Sukuk securities issued by Malaysia can be in USD"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 36,
+    "question": "The protection offered by PIDM on the deposits placed in banking institutions and policies bought from insurance companies operating in Malaysia is granted\nI. To all banks, insurance companies, takaful operators, reinsurance companies and re-takaful operators which have business operations in Malaysia\nII. Only to banks, insurance companies and takaful operators which are member institutions of PIDM\nIII. With a levy charged to all member institutions and non-member institutions at differing rates\nIV. With a levy charged to member institutions",
+    "options": {
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "II and IV",
+      "D": "III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 37,
+    "question": "Sukuk is gaining ground in terms of transaction volumes in Malaysia, including for investment-linked funds because\nI. This investment vehicle is becoming more popular among investors\nII. Of the strong support from the Government and mega corporations, especially Malaysian ones\nIII. Of its higher return experience compared to conventional bonds because of special incentives provided by the Government\nIV. It is traded only in Malaysian Ringgit",
+    "options": {
+      "A": "I, II and III",
+      "B": "I and II",
+      "C": "II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 38,
+    "question": "The average yield of Malaysian treasury bills with tenures of 6 to 12 months is\nI. Around or slightly better than 3%\nII. Normally around 4 to 5 per cent\nIII. Normally of very low volatility ratio but in periods when the Government embarks on mass mega projects and needs funding, it may issue bills with yields as high as corporate bonds\nIV. With wide variance, depending on the type of bill",
+    "options": {
+      "A": "I",
+      "B": "II and IV",
+      "C": "I, II, III and IV",
+      "D": "IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 39,
+    "question": "It is safer to rely on professional fund managers appointed for investment-linked funds than to invest directly in the stock market because\nI. An ordinary individual is generally not equipped to identify the right stock that will reap gain\nII. The professional fund managers’ role is to ensure the assets and vehicles achieve a certain minimum growth rate according to the various stages of time span; otherwise, the fund managers and life insurer will be obligated to make up the shortfall\nIII. It is not easy for an ordinary individual to pick the right time to buy and the right time to sell for optimizing capital gains\nIV. Ordinary individuals, especially those occupied with work, do not have the time and knowledge to properly monitor market trends",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, III and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 40,
+    "question": "Malaysian bonds are deemed to be\nI. More volatile than global bonds\nII. Less volatile than global bonds\nIII. Rated at very high preference because the country’s economy is growing vibrantly\nIV. Experiencing better yields than global bonds for many years",
+    "options": {
+      "A": "I and III",
+      "B": "II",
+      "C": "III and IV",
+      "D": "IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 41,
+    "question": "Compared to government bond funds, corporate bond funds have:\nI. Lower yields and lower risks\nII. Higher yields and higher risks\nIII. More or less similar yield and risk ratios\nIV. A longer tenure",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "II",
+      "C": "III and IV",
+      "D": "IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 42,
+    "question": "If an insurer has an investment-linked fund tracking the FBM-KLCI index, it means:\nI. The fund manager refers to the index as the benchmark for guiding the fund’s investment strategy and also the return targets in the ensuing years\nII. The insurer is obligated to grant the returns according to the ratios experienced by the index. If the actual return of the fund in any period is lower than that shown by the index, the insurer will top up the difference\nIII. The fund invests in the same stocks of the companies identified by the index\nIV. The fund invests in stocks of companies in the same industries as the companies identified by the index",
+    "options": {
+      "A": "I and IV",
+      "B": "II",
+      "C": "I and II",
+      "D": "III"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 43,
+    "question": "Valuation of units in an investment-linked fund must be done:",
+    "options": {
+      "A": "Six days in a week, including Saturdays (half day)",
+      "B": "Every business day",
+      "C": "Every day",
+      "D": "Seven days a week. For a day that falls on a weekend or a public holiday, valuation processed by the automated system will be based on the same unit price as the previous business day"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 44,
+    "question": "The guidelines stipulated by the regulatory authority in allowing a life insurer to undertake unit splits for an investment-linked fund once a year is on the condition that “there is sustainable appreciation on net asset value (account value) over a six-month period preceding the split.”\n Which of the statements below is correct regarding the above statement?",
+    "options": {
+      "A": "This means that appreciation over the 6-month period must be considered substantial by reasonable standard compared to the previous 6 months",
+      "B": "This refers to an appreciation rate of at least 20 per cent at the end of the current 6 months over the previous 6 months",
+      "C": "This refers to an increase in the average monthly net asset value (account value) consecutively for 6 months",
+      "D": "This means that the discretion to define “sustainable appreciation” may lie with the life insurer as long as there is growth in the fund in the prevailing 6 months over the previous 6 months, subject to the approval of the board of directors"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 45,
+    "question": "Since part of the initial premium of a regular premium investment-linked plan may already have been allocated and invested to acquire fund units by the time the customer decides not to take the plan within the 15 days free-look period, in what manner will the refund be made?",
+    "options": {
+      "A": "Refund of full initial premium",
+      "B": "Refund of full initial premium minus policy fee and medical examination expenses (if any) incurred by the life insurer",
+      "C": "Refund of unallocated premium + net asset value (account value) at next valuation date + insurance charges and policy fee already deducted - medical examination fees if any",
+      "D": "Refund of unallocated premium + net asset value (account value) - cost of insurance and policy fee-medical examination fees if any"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 46,
+    "question": "Life insurers offering investment-linked insurance are obligated to provide certain fundamental “transparencies” as required by regulatory guidelines. These are:\nI. A separate Fund Fact Sheet for each of the funds\nII. A statement on the policy owner’s net asset value (account value) details at least once a year\nIII. A performance report on each fund of the policy owner at least once a year\nIV. Publishing of fund unit prices daily in at least one national English newspaper and one national Bahasa Malaysia newspaper, and on the insurer’s website",
+    "options": {
+      "A": "II, III and IV",
+      "B": "I, II and III",
+      "C": "I and II",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 47,
+    "question": "Which of the statements below regarding sales illustrations for investment-linked plans are correct?\nI. The low and high projection for an equity fund should not be above 2% and 9% respectively for the first 20 years\nII. The low and high projection for a managed fund should not be above 3% and 8% respectively for the first 20 years\nIII. The low and high projections for a fixed income/bond fund should not be above 4% and 7% respectively for the first 20 years\nIV. For projected illustrations beyond 20 years, insurers must abide by the low scenario rates of 2%, 3% and 4% for equity funds, managed funds and bond funds respectively. The high scenario rates for the same three funds are 6%, 5.5% and 5% respectively",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I and II",
+      "D": "II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 48,
+    "question": "What are the prerequisites for the launch of a new investment-linked fund?\nI. A minimum fund size can be set by the insurer\nII. The initial offer period shall not be more than 2 months from the date of launch\nIII. If the minimum fund size is not reached by the end of the initial offer period, the insurer can call off the fund and refund all premiums collected\nIV. The insurer will also have to pay interest or profit from the premiums collected during the initial offer period to the intended policy owners",
+    "options": {
+      "A": "I and II",
+      "B": "I, III and IV",
+      "C": "I, II, III and IV",
+      "D": "I, II and III"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 49,
+    "question": "Which of the following statements are correct?\nI. Agents must utilize the sales materials and sales illustrations provided by their respective principal in their sales process\nII. Agents must utilize the sales materials and sales illustrations provided by their respective principal in their sales process. However, they may have the discretion to supplement these provided the facts do not deviate from those in the materials and illustrations provided by the principal\nIII. Only the signature of the intended new policy owner must be obtained on an insurer’s\nIV. Customer Fact-Find (CFF) form\nV. The sales intermediary must also sign the CFF form as witness after the intended new policy owner has signed",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "II and III"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 50,
+    "question": "As soon as a policy contract has been issued by a life insurer:\nI. The insurer is to mail (by registered mail) the policy contract to the correspondence address of the new policy owner. The registered mail slip should suffice as evidence that the contract has reached the policy owner\nII. The agent should deliver the policy contract without delay\nIII. The delivery process should entail the explanation of the contractual provisions and re-explaining the benefits. The agent then has to request the new policy owner to sign the delivery acknowledgement slip. Finally, the agent must return the signed acknowledgement slip to the insurer for recording and filing\nIV. If the new policy owner is unavailable at the first time of personal delivery by the agent, acknowledgement of receipt of the policy contract signed by a representative of the policy owner’s household or office shall be deemed valid. The agent does not need to follow up on this",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II, III and IV",
+      "D": "I, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "questionNumber": 51,
+    "question": "Agents who have sold investment-linked plans should conduct reviews with their clients ideally once a year. The purposes are:\nI. To provide updates on the performance progress of fund/s selected by the clients\nII. To discuss and ascertain whether the client’s financial objectives might have changed due to certain circumstances\nIII. To discuss and ascertain whether the original risk profile of the client has changed due to certain circumstances\nIV. To discuss alternative next steps where necessary",
+    "options": {
+      "A": "I, II and IV",
+      "B": "II, III and IV",
+      "C": "I, II, III and IV",
+      "D": "III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 52,
+    "question": "The Code of Conduct pertaining to life insurance selling applies to:\nI. All agents\nII. All employees of life insurers\nIII. Insurance brokers\nIV. Agents and insurance brokers",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I and III",
+      "C": "I and II",
+      "D": "I, II, and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 53,
+    "question": "Which of the following statements are correct?\nI. Agents may design their own financial planning form to gather financial data and financial information of their prospective clients for analysis. However, the format must be approved by their principal\nII. The Customer Fact-Find form of a life insurer officially documents important facts concerning the financial data concerning a prospective policy owner and his family\nIII. Cancellation of a policy is allowed if the request by a new policy owner falls within the 15 days free-look period. The period commences from the date the policy contract is passed to the agent for delivery\nIV. The free-look period commences from the date the client signs the acknowledgement slip upon receiving the policy",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II and IV",
+      "D": "I and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 54,
+    "question": "The pertinent points highlighted by the Guidelines on Minimum Standards for Treating Customers Fairly (TCF) for agents’ attention are:\nI. Agents should inform customers fully about the key benefits, key risks and exclusions\nII. Agents must first be well-trained, especially involving the sale of investment and savings products\nIII. Agents must guide the customers as to what details are necessary to declare and what are not necessary so that the concise personal information captured in the application documents will cater for a smooth underwriting process\nIV. The product being proposed to a customer should be based on suitability, needs and risk appetite",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "questionNumber": 55,
+    "question": "What is an \"internal unitized investment-linked fund\"?",
+    "options": {
+      "A": "Part of the external unitized investment-linked fund",
+      "B": "Part of the stock market investment-linked fund",
+      "C": "Part of the life insurance fund of a life insurance company",
+      "D": "Part of the investment fund of a life insurance company"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 56,
+    "question": "Choose the correct combination as far as the risk-returns relationship is concerned:\nI. The higher the risk, the higher the returns\nII. Slow growth in capital and income generally carry lower risk\nIII. High risk takers make cautious decisions\nIV. Risk is related to a match between rate of return and investor expectations",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, II and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 57,
+    "question": "Arrange the corporate bonds from the least risky to the most risky:",
+    "options": {
+      "A": "Debentures, Convertible stock, and Loan stocks",
+      "B": "Loan stocks, Convertible stocks, and Debentures",
+      "C": "Debentures, Loan stocks, and Convertible stocks",
+      "D": "Loan stocks, Debentures, and Convertible stocks"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 58,
+    "question": "The investment returns under an investment-linked life insurance policy…\nI. Are not guaranteed\nII. Are assured\nIII. Are linked to the performance of the investment fund managed by the life office\nIV. Fluctuate according to the rise and fall of market prices",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 59,
+    "question": "In a volatile market, a policy owner may want to move part or all of his investment from the equity fund to a cash fund in order to protect the capital value if he thinks the stock market may face a downturn or even a crash. Such a move is called:",
+    "options": {
+      "A": "Transfers",
+      "B": "Withdrawals",
+      "C": "Re-investments",
+      "D": "Switching"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 60,
+    "question": "Investment-linked life insurance allows:\nI. Policy owners to change the level of premium payment\nII. Single premium top-up\nIII. Change in the level of sum insured\nIV. Policy owners to decide how the fund managers should invest the funds",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I, III and IV",
+      "C": "I, II and III",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  }
+]
